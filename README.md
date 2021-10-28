@@ -8,4 +8,4 @@ This is a tutorial project. All references above :
 
 About me :
 - first/lastname : Christophe GOURMAND
-- link : [github project]() _(not cloned, but re-written in order to study)_
+- link : [github project](https://github.com/christophegourmand/nodejs_basics_training) _(not cloned, but re-written in order to study)_
